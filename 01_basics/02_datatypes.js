@@ -5,7 +5,7 @@ let temperature=null //null
 let city //undefined
 
 //string=""
-
+//symbol=unique
 
 console.log(typeof "suraj")
 console.log(typeof age);//we can find the datatypes of variable and values by using typeof
